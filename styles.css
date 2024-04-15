@@ -1,0 +1,92 @@
+body 
+{
+  
+  background-color: rgb(242, 211, 250);
+}
+
+body 
+{
+  font-size: 1vw;
+  line-height: 1vw;
+}
+
+h1 
+{
+  font-size: 3em;
+  line-height: 1em;
+  
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  
+  text-align: center;
+}
+body 
+{
+  font-size: 1vw;
+  line-height: 1vw;
+}
+
+nav
+{
+  font-size: 1.50em;
+  line-height: 0em;
+  
+  text-transform: none;
+  letter-spacing: 0.1em;
+  
+  text-align: center;
+}
+p, a 
+{
+  font-size: 1.30em;
+  line-height: 1.5em;
+  
+  word-spacing: 0.09em;
+  text-align: left;
+}
+h3
+{
+  font-size: 1.25em;
+  line-height: 1em;
+  
+  text-transform: uppercase;
+  letter-spacing: 0em;
+  
+  text-align: left;
+}
+p, a 
+{
+  font-size: 1.30em;
+  line-height: 1.25em;
+  
+  word-spacing: 0.09em;
+  text-align: left;
+}
+ul
+{
+  font-size: 1.30em;
+  line-height: 1.25em;
+  
+  word-spacing: 0.09em;
+  text-align: left;
+}
+h3
+{
+  font-size: 2em;
+  line-height: 0em;
+  
+  text-transform: none;
+  letter-spacing: 0em;
+  
+  text-align: left;
+}
+h2
+{
+  font-size: 2em;
+  line-height: 2em;
+  
+  text-transform: none;
+  letter-spacing: 0em;
+  
+  text-align: left;
+}
