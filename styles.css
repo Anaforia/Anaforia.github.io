@@ -90,3 +90,31 @@ h2
   
   text-align: left;
 }
+address
+{
+  font-size: 1em;
+  line-height: 0em;
+  
+  text-transform: none;
+  letter-spacing: 0em;
+  
+  text-align: left;
+}
+
+img 
+{
+  float: center;
+  margin: 30px;
+}
+ul, ol 
+{
+  width: 200px;
+  margin-bottom: 50px;
+}
+
+
+ul 
+{ 
+  list-style-type: circle;
+  list-style-position: inside;
+}
