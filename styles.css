@@ -19,6 +19,7 @@ h1
   letter-spacing: 0.1em;
   
   text-align: center;
+  text-decoration-line: none;
 }
 body 
 {
@@ -44,25 +45,7 @@ p, a
   word-spacing: 0.09em;
   text-align: left;
 }
-h3
-{
-  font-size: 1.25em;
-  line-height: 1em;
-  
-  text-transform: uppercase;
-  letter-spacing: 0em;
-  
-  text-align: left;
-}
 p, a 
-{
-  font-size: 1.30em;
-  line-height: 1.25em;
-  
-  word-spacing: 0.09em;
-  text-align: left;
-}
-ul
 {
   font-size: 1.30em;
   line-height: 1.25em;
@@ -125,23 +108,6 @@ img
   float: center;
   margin: 30px;
 }
-ul, ol 
-{
-  width: 200px;
-  margin-bottom: 50px;
-}
-
-
-ul 
-{ 
-  list-style-type: circle;
-  list-style-position: inside;
-}
-{
-  margin: 0px;
-  padding: 0px;
-}
-
 
 figure 
 {
