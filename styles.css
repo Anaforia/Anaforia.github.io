@@ -19,7 +19,6 @@ h1
   letter-spacing: 0.1em;
   
   text-align: center;
-  text-decoration-line: none;
 }
 body 
 {
@@ -73,16 +72,6 @@ h2
   
   text-align: left;
 }
-address
-{
-  font-size: 1em;
-  line-height: 0em;
-  
-  text-transform: none;
-  letter-spacing: 0em;
-  
-  text-align: left;
-}
 a
 {
   font-size: 2em;
@@ -103,12 +92,6 @@ figcaption
   
   text-align: center;
 }
-img 
-{
-  float: center;
-  margin: 30px;
-}
-
 figure 
 {
   width: 30%;
@@ -118,15 +101,11 @@ figure
   margin-top: 0px;
   margin-left: 0px;
 }
-
-
 figure img 
 {
   background-color: lightblue;
   width: 100%;
 }
-
-
 figcaption 
 {
   text-align: center
@@ -137,12 +116,10 @@ figcaption
   
   line-height: 1.5em;
 }
-
 p 
 {
   font-size: 1.3em;
 }
-
 h1 
 {
   background-color: rgb(246, 204, 255);
@@ -153,4 +130,9 @@ h1
   position: sticky;
   top: 0px;
   left: 0px;
+}
+img 
+{
+  float: center;
+  margin: 30px;
 }

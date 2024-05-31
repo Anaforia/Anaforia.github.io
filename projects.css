@@ -9,13 +9,14 @@ body
   font-size: 1vw;
   line-height: 1vw;
 }
-h1
+
+h1 
 {
-  font-size: 1.55em;
-  line-height: 2em;
+  font-size: 2.1em;
+  line-height: 1em;
   
   text-transform: none;
-  letter-spacing: 0em;
+  letter-spacing: 0.1em;
   
   text-align: center;
 }
@@ -26,7 +27,7 @@ body
 }
 nav
 {
-  font-size: 1.4em;
+  font-size: 1.8em;
   line-height: 2em;
   
   text-transform: none;
@@ -34,25 +35,22 @@ nav
   
   text-align: center;
 }
-p, a
+p
 {
-  font-size: 1.50em;
-  line-height: 2m;
+  font-size: 1.5em;
+  line-height: 2em;
+  
+  word-spacing: 0.09em;
+  text-align: center;
+}
+
+ul, li
+{
+  font-size: 1em;
+  line-height: 3em;
   
   text-transform: none;
-  letter-spacing: 0em;
+  letter-spacing: 0.1em;
   
   text-align: left;
-}
-img 
-{
-  float: center;
-}
-h1 
-{
-  font-size: 1.55em;
-  
-  position: sticky;
-  top: 0px;
-  left: 0px;
 }

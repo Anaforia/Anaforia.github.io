@@ -34,25 +34,36 @@ nav
   
   text-align: center;
 }
-p, a
+figcaption 
 {
-  font-size: 1.50em;
-  line-height: 2m;
+  font-size: 1.25em;
+  line-height: 2em;
   
   text-transform: none;
   letter-spacing: 0em;
   
-  text-align: left;
+  text-align: center;
 }
-img 
+figure 
 {
-  float: center;
-}
-h1 
-{
-  font-size: 1.55em;
+  width: 30%;
+  float: left;
   
-  position: sticky;
-  top: 0px;
-  left: 0px;
+  margin-top: 0px;
+  margin-left: 2px;
+}
+figure img 
+{
+  background-color: lightblue;
+  width: 100%;
+}
+figcaption 
+{
+  text-align: center
+}
+{
+  margin: 0px;
+  padding: 0px;
+  
+  line-height: 1.5em;
 }
