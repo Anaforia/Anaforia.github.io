@@ -1,7 +1,7 @@
 body 
 {
   
-  background-color: rgb(246, 204, 255);
+  background-color: rgb(245, 216, 252);
 }
 
 body 
@@ -122,7 +122,7 @@ p
 }
 h1 
 {
-  background-color: rgb(246, 204, 255);
+  background-color: rgb(245, 216, 252);
   color: rgb(0, 0, 0);
   
   font-size: 2.3em;
@@ -134,5 +134,5 @@ h1
 img 
 {
   float: center;
-  margin: 30px;
+  margin: 20px;
 }
