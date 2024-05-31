@@ -11,8 +11,8 @@ body
 }
 h1
 {
-  font-size: 1.55em;
-  line-height: 2em;
+  font-size: 2.5em;
+  line-height: 1em;
   
   text-transform: none;
   letter-spacing: 0em;
@@ -26,7 +26,7 @@ body
 }
 nav
 {
-  font-size: 1.4em;
+  font-size: 1.8em;
   line-height: 2em;
   
   text-transform: none;
@@ -66,4 +66,15 @@ figcaption
   padding: 0px;
   
   line-height: 1.5em;
+}
+h1 
+{
+  background-color: rgb(246, 204, 255);
+  color: rgb(0, 0, 0);
+  
+  font-size: 2.5em;
+  
+  position: sticky;
+  top: 0px;
+  left: 0px;
 }
