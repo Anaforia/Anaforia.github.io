@@ -47,3 +47,14 @@ figure img
   background-color: lightblue;
   width: 100%;
 }
+h1 
+{
+  background-color: rgb(246, 204, 255);
+  color: rgb(0, 0, 0);
+  
+  font-size: 2.5em;
+  
+  position: sticky;
+  top: 0px;
+  left: 0px;
+}
