@@ -1,15 +1,25 @@
+/*Ana Joana Agostinho Foria 3210186
+Escola Superior de Artes e Design/Politécnico de Leiria
+3º ano DGM
+2023-2024/ 2º Semestre
+Laboratório de Projeto II
+Professor Marco Heleno*/
+
+/*Mudança da cor do fundo*/
 body 
 {
   
   background-color: rgb(245, 216, 252);
 }
 
+/*Mudar o tamanho e o espaçamento das letras*/
 body 
 {
   font-size: 1vw;
   line-height: 1vw;
 }
 
+/* Mudar o tamanho e o espaçamento do Título 1*/
 h1 
 {
   font-size: 3em;
@@ -26,6 +36,7 @@ body
   line-height: 1vw;
 }
 
+/*Mudar o tamanho o espaçamento e a orientação do texto da nav*/
 nav
 {
   font-size: 1em;
@@ -36,6 +47,8 @@ nav
   
   text-align: center;
 }
+
+/* Mudar o tamanho e o espaçamento do parágrafo e das hiperligações*/
 p, a 
 {
   font-size: 1.30em;
@@ -52,6 +65,8 @@ p, a
   word-spacing: 0.09em;
   text-align: left;
 }
+
+/* Mudar o tamanho e o espaçamento do Título 3*/
 h3
 {
   font-size: 2em;
@@ -62,6 +77,8 @@ h3
   
   text-align: left;
 }
+
+/* Mudar o tamanho e o espaçamento do Título 2*/
 h2
 {
   font-size: 2em;
@@ -72,6 +89,8 @@ h2
   
   text-align: left;
 }
+
+/* Mudar o tamanho e o espaçamento das hiperligações*/
 a
 {
   font-size: 2em;
@@ -82,6 +101,8 @@ a
   
   text-align: center;
 }
+
+/*Redimensionar o tamanho o espaçamento das imagens e das respetivas legendas*/
 figcaption 
 {
   font-size: 1.25em;
@@ -116,10 +137,14 @@ figcaption
   
   line-height: 1.5em;
 }
+
+/*Mudar o tamanho das letras do parágrafo*/
 p 
 {
   font-size: 1.3em;
 }
+
+/*Posição stiky do título 1 e preenchimento da cor do mesmo*/
 h1 
 {
   background-color: rgb(245, 216, 252);

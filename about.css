@@ -1,15 +1,25 @@
+/*Ana Joana Agostinho Foria 3210186
+Escola Superior de Artes e Design/Politécnico de Leiria
+3º ano DGM
+2023-2024/ 2º Semestre
+Laboratório de Projeto II
+Professor Marco Heleno*/
+
+/*Mudança da cor do fundo*/
 body 
 {
   
   background-color: rgb(245, 216, 252);
 }
 
+/*Mudar o tamanho e o espaçamento das letras*/
 body 
 {
   font-size: 1vw;
   line-height: 1vw;
 }
 
+/* Mudar o tamanho e o espaçamento do Título 1*/
 h1
 {
   font-size: 1.8em;
@@ -25,6 +35,8 @@ body
   font-size: 1vw;
   line-height: 1vw;
 }
+
+/*Mudar o tamanho o espaçamento e a orientação do texto da nav*/
 nav
 {
   font-size: 1.5em;
@@ -35,6 +47,8 @@ nav
   
   text-align: center;
 }
+
+/* Mudar o tamanho e o espaçamento do Título 3*/
 h3
 {
   font-size: 1.25em;
@@ -45,6 +59,8 @@ h3
   
   text-align: left;
 }
+
+/* Mudar o tamanho e o espaçamento do parágrafo e das hiperligações*/
 p, a 
 {
   font-size: 1.30em;
@@ -53,6 +69,8 @@ p, a
   word-spacing: 0.09em;
   text-align: left;
 }
+
+/* Mudar o tamanho o espaçamento as margens e a orientação da lista*/
 ul
 {
   font-size: 1.30em;
