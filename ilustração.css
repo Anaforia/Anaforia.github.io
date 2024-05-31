@@ -58,3 +58,11 @@ h1
   top: 0px;
   left: 0px;
 }
+p
+{
+  font-size: 1.3em;
+  line-height: 1em;
+  
+  word-spacing: 0.09em;
+  text-align: left;
+}
