@@ -82,3 +82,11 @@ video
     width: 15%;
     height: 20%;
 }
+p
+{
+  font-size: 1.3em;
+  line-height: 1.25em;
+  
+  word-spacing: 0.09em;
+  text-align: left;
+}
